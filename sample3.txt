@@ -1,2 +1,5 @@
 this is sample3
 i am adding some scenarios t1
+i have added new code here
+findelemnet
+by.id,by.name,by.class
